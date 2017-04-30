@@ -1,0 +1,4 @@
+Book [id=1, tytul=W pustyni, autor=Sienkiewicz Henryk, gatunek=PRZYGODOWA, liczbaStron=255]
+Book [id=2, tytul=Java programowanie, autor=Ritchar Tolson, gatunek=INFORMATYCZNA, liczbaStron=550]
+Book [id=3, tytul=Janko Muzykant, autor=Janowki Tomasz, gatunek=PRZYGODOWA, liczbaStron=122]
+Book [id=4, tytul=CMS, autor=Tomas Cann, gatunek=INFORMATYCZNA, liczbaStron=255]
